@@ -1,3 +1,4 @@
 ﻿# ignore large data files
 *.csv
 *.json
+results/*.pkl
