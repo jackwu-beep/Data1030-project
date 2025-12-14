@@ -1,3 +1,5 @@
-The dataset is large, so I put the link to the dataset here for now: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html
+The dataset is large, so I put the link to the dataset here: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html
 
-In the future I might consider adding it here if there's slight modification/sampling.
+The results folder is also large, so I put the link to the google drive here: https://drive.google.com/drive/folders/1Xm6ACHM-KhLFY-7F2QLCv1wyyTnTcMeI?usp=drive_link
+
+
